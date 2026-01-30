@@ -8,3 +8,4 @@ export const connectDB = async(req,res)=>{
     console.log(`error in connecting database ${error}`)
   }
 }
+
